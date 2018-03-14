@@ -1,11 +1,6 @@
 # BigDataProject
 Data Cleaning, Data Analysis and Data Exploration
 
-Group Members -
-Rakshit Sareen (rs5606)
-Saurabh Mahajan (sm6921)	
-Sneha Ghosh (sg3533)
-
 Final Project Report - https://docs.google.com/document/d/10eXqXr4Je853OHkP8QWWdvTtgI-MkoKViFRyaKvKYQk/edit#
 
 Google Doc Data Cleaning - https://docs.google.com/document/d/1SmbZb3nXtPsxA4_KVE0zSXGsQbahm659BlG7nZxJiVY/
